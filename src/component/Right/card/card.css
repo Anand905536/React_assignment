@@ -1,0 +1,54 @@
+.card{
+    margin-top: 20px;;
+   width:890px;
+   background-color: #ffffff;
+   height: 280px;;
+   margin-left: 50px;;
+   border-radius: 20px;;
+}
+.navbar_in_card{
+    /* background-color: green; */
+    width:100%;
+    display:flex;
+    justify-content: space-between;
+    border-radius: 20px;;
+}
+.Heading{
+    margin-left: 25px;;
+    font-size: 15px;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+
+}
+.sub_heading{
+    width:100px;
+    /* background-color: pink; */
+    display: flex;
+    font-size: 11px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    border-radius: 20px;;
+    margin-top: 15px;;
+    justify-content: space-between;
+    margin-right:30px;
+}
+.circle{
+    /* background-color: black; */
+    border-radius: 50%;
+    width:5px;
+    height:5px;
+    margin-top: 15px;
+    
+}
+
+.chart_data{
+    margin-top: 30px;;
+    margin-left: 25px;
+}
+.week{
+    margin-top: -12px;;
+    display:flex;
+    justify-content: space-evenly;
+    font-size: 10px;
+    color: #858585;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

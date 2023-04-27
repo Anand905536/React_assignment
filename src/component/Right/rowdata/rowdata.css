@@ -1,0 +1,6 @@
+.main_rowdata{
+    /* background-color: brown; */
+    margin-top: 20px;;
+    display: flex;
+    justify-content: space-evenly;
+}

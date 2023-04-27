@@ -1,0 +1,35 @@
+.navbar{
+    /* background-color: red; */
+    height:50px;
+    display:flex;
+    justify-content: space-between;
+}
+.heading{
+   margin-left: 60px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.input{
+  width:150px;
+ background-color: #FFFFFF;
+  border: none;
+  height:25px;
+  border-radius: 10px;;
+  text-align: center;
+  position: relative;
+  margin-top: 15px;
+}
+.icon_inside_search{
+    margin-top: 20px;
+margin-left: -30px;
+position:absolute;
+}
+.navbar_icon{
+margin-left: 0px;
+margin-top: 19px;
+}
+.navbar_image{
+    margin-top: 15px;
+width:30px;
+border-radius:50%;
+
+}

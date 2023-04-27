@@ -1,0 +1,22 @@
+.rowdata{
+    /* margin-left: 50px; */
+    display: flex;
+    flex-direction: column;
+    width:170px;
+    height:100px;
+    background-color: white;
+    border-radius: 15px;
+}
+.rowdata_icon{
+   
+    font-weight: bold;
+    margin-top:5px;
+   margin-left: 120px;
+   width:50px;
+   color:black
+}
+.rowdata_details{
+    margin-top: -15px;;
+    font-family: Lato;
+    margin-left: 20px;
+}

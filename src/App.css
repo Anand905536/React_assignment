@@ -1,0 +1,29 @@
+body{
+  background-color: #DDDDDD;
+}
+.App{
+  margin-left: 30px;;
+  margin-right: 30px;;
+  margin-top: 30px;;
+  margin-bottom: 15px;;
+}
+.transaction{
+  /* background-color: green;; */
+  width:82%;
+  height: 500px;
+}
+.user{
+  /* background-color: green;; */
+  width:82%;
+  height: 500px;
+}
+.setting{
+  /* background-color: green;; */
+  width:82%;
+  height: 500px;
+}
+.schedule{
+  /* background-color: green;; */
+  width:82%;
+  height: 500px;
+}
